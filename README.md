@@ -1,4 +1,4 @@
-# Meta-Learning Codebooks Repository
+# Meta-Learning Codebooks 
 
 This repository contains implementation code for two significant meta-learning models: Siamese Networks for face recognition and Prototypical Networks for classification tasks. These models represent cutting-edge approaches in machine learning that facilitate the process of learning from fewer examples with high efficiency.
 
@@ -20,7 +20,7 @@ Prototypical Networks excel in classifying data into categories based on few exa
 **Notebook:** `Meta_Learning_2_Prototypical_Network_Face_Classification.ipynb`
 
 **For more insights into Prototypical Networks, visit this article:**
-- Beyond Deep Learning: Meta-Learning for Efficient AI - [Link Coming Soon]()
+- Beyond Deep Learning: Meta-Learning for Efficient AI - [Link](https://medium.com/@teendifferent/beyond-deep-learning-meta-learning-with-prototypical-networks-for-efficient-ai-56503b642c06)
 
 ## Repository Structure
 

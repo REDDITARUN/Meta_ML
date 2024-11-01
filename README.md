@@ -1,4 +1,4 @@
-# Meta-Learning Codebooks 
+# Face Recognition Using Meta-Learning 
 
 This repository contains implementation code for two significant meta-learning models: Siamese Networks for face recognition and Prototypical Networks for classification tasks. These models represent cutting-edge approaches in machine learning that facilitate the process of learning from fewer examples with high efficiency.
 
